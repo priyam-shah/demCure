@@ -73,7 +73,7 @@ const Navbar = () => {
           variant="h2"
           align="center"
         >
-          Memories by dimCure
+          Memories by demCure
         </Typography>
       </div>
 
